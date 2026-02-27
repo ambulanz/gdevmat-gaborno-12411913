@@ -9,7 +9,7 @@ public class BlackHole {
   }
 
   void render() {
-    fill(255);
+    fill(0);
     noStroke();
     circle(position.x, position.y, scale);
   }
